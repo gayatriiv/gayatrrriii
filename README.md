@@ -44,15 +44,6 @@ i enjoy learning new technologies, solving problems with clarity, and writing co
 
 
 ---
-
----
-
-## contribution graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayatriiv&theme=github-dark&hide_border=true&bg_color=0d1117" />
-</p>
-
 ---
 
 <p align="center">
